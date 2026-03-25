@@ -15,6 +15,11 @@
     "eslint-config-alloy": "^5.1.2",
     "globals": "^15.14.0"
   },
+  "pnpm": {
+    "overrides": {
+      "flatted": ">=3.4.2"
+    }
+  },
   "engines": {
     "node": ">=18.0.0"
   }
